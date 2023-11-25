@@ -70,4 +70,9 @@ Each project is stored in a separate branch.
 2. Search for collections
 3. Pagination
 4. Receiving, pagination via backend
+<<<<<<< HEAD
 5. Display information about loading content.
+=======
+5. Display information about loading content.
+
+>>>>>>> d34ab18e72ffadcf40cc019d483d53dd77d7a893
